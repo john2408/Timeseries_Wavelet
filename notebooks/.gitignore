@@ -1,0 +1,5 @@
+data/
+mlruns/
+.ipynb_checkpoints/
+
+Node_encoding.ipynb
