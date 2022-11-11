@@ -58,7 +58,8 @@ RUN pip install --no-cache --upgrade \
             mlflow \
             jupyterlab \
             PyWavelets \ 
-            keras-tcn
+            keras-tcn \
+	    matplotlib
 
 RUN pip install --upgrade pip
 
