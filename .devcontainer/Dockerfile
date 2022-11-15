@@ -59,7 +59,8 @@ RUN pip install --no-cache --upgrade \
             jupyterlab \
             PyWavelets \ 
             keras-tcn \
-	    matplotlib
+	          matplotlib \
+            statsmodels \
 
 RUN pip install --upgrade pip
 
