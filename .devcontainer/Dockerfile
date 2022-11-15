@@ -60,7 +60,7 @@ RUN pip install --no-cache --upgrade \
             PyWavelets \ 
             keras-tcn \
 	          matplotlib \
-            statsmodels \
+            statsmodels 
 
 RUN pip install --upgrade pip
 
